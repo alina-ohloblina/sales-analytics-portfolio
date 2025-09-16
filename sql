@@ -34,3 +34,6 @@ LEFT JOIN `{BQ}.account` a
   ON acs.account_id = a.id
 LEFT JOIN `{BQ}.product` p
   ON o.item_id = p.item_id
+
+
+
